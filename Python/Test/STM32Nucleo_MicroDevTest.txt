@@ -1,0 +1,1048 @@
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PD2
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC12
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC11
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC10
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB8
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC6
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC9
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC8
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB9
+
+Test 1: Output without Load
+Test Logic High: 3.38 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC5
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA6
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA11
+
+Test 1: Output without Load
+Test Logic High: 3.32 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA5
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PA12
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.02 V
+Above results for Pin ID PC13
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB7
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PA15
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB2
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB6
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PB12
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA7
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA0
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA8
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB1
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA9
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC7
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA4
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA1
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PB4
+
+Test 1: Output without Load
+Test Logic High: 3.38 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PB14
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB10
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PB15
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC2
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC1
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB0
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB3
+
+Test 1: Output without Load
+Test Logic High: 3.38 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB5
+
+Test 1: Output without Load
+Test Logic High: 3.37 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PB13
+
+Test 1: Output without Load
+Test Logic High: 3.36 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC3
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC0
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA10
+
+Test 1: Output without Load
+Test Logic High: 3.35 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC4
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PD2
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC12
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC11
+
+Test 2: Output w/ Load
+Test Logic High: 3.18 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC10
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB8
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC6
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC9
+
+Test 2: Output w/ Load
+Test Logic High: 3.16 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC8
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB9
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC5
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA6
+
+Test 2: Output w/ Load
+Test Logic High: 3.15 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA11
+
+Test 2: Output w/ Load
+Test Logic High: 3.13 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA5
+
+Test 2: Output w/ Load
+Test Logic High: 3.16 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA12
+
+Test 2: Output w/ Load
+Test Logic High: 3.03 V
+Test Logic Low: 0.02 V
+Above results for Pin ID PC13
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB7
+
+Test 2: Output w/ Load
+Test Logic High: 3.18 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PA15
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB2
+
+Test 2: Output w/ Load
+Test Logic High: 3.18 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB6
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB12
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA7
+
+Test 2: Output w/ Load
+Test Logic High: 3.16 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA0
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA8
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB1
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA9
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC7
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA4
+
+Test 2: Output w/ Load
+Test Logic High: 3.18 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA1
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.01 V
+Above results for Pin ID PB4
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB14
+
+Test 2: Output w/ Load
+Test Logic High: 3.19 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB10
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB15
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC2
+
+Test 2: Output w/ Load
+Test Logic High: 3.16 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC1
+
+Test 2: Output w/ Load
+Test Logic High: 3.18 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB0
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB3
+
+Test 2: Output w/ Load
+Test Logic High: 3.18 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB5
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PB13
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC3
+
+Test 2: Output w/ Load
+Test Logic High: 3.16 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC0
+
+Test 2: Output w/ Load
+Test Logic High: 3.17 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PA10
+
+Test 2: Output w/ Load
+Test Logic High: 3.18 V
+Test Logic Low: 0.0 V
+Above results for Pin ID PC4
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PD2
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC12
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC11
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC10
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB8
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC6
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC9
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC8
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB9
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC5
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA6
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA11
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA12
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB7
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA15
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB2
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB6
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 9.0k ohms
+Above results for Pin ID PB12
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA7
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA0
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA8
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB1
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA9
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC7
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA4
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PA1
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB4
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB14
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB10
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB15
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC2
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC1
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB0
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB3
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB5
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PB13
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC3
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC0
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 9.0k ohms
+Above results for Pin ID PA10
+
+Test 3: Pull-Up Input
+Test Pull Up Resistance Value: 41.0k ohms
+Above results for Pin ID PC4
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PD2
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC12
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PC11
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC10
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB8
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC6
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC9
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC8
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PB9
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PC5
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA6
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA11
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA12
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB7
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PA15
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PB2
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB6
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 8.0k ohms
+Above results for Pin ID PB12
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PA7
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA0
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA8
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PB1
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA9
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC7
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA4
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PA1
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB4
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB14
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PB10
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB15
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PC2
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PC1
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB0
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB3
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB5
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PB13
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 29.0k ohms
+Above results for Pin ID PC3
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC0
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 8.0k ohms
+Above results for Pin ID PA10
+
+Test 4: Pull-Down Input
+Test Pull Down Resistance Value: 30.0k ohms
+Above results for Pin ID PC4
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PD2
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC12
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC11
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC10
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB8
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC6
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC9
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC8
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB9
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC5
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA6
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA11
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA5
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA12
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC13
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB7
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA15
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB2
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB6
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB12
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA7
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA0
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA8
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB1
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA9
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC7
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA4
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA1
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB4
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB14
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB10
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB15
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC2
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC1
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB0
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB3
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB5
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PB13
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC3
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC0
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PA10
+
+Test 5: Input Logic
+Logic High: 1
+Logic Low: 0
+Above results for Pin ID PC4
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PC4
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PC5
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PB1
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PC2
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PC3
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PA0
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PA1
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PA4
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PB0
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PC1
+
+Test 6: ADC Check
+ADC Return Value: 1: 3.2
+ADC Return Value: 2: 1.5
+ADC Return Value: 3: 0.0
+Above results for Pin ID PC0
+
+Above results for Pin ID None
+
+Test 7: Set Power Mode
+Current in mA Before Power Mode: 70.17
+Current in mA After Power Mode: 60.59
+Above results for Pin ID PD2
+
+Test 8: Wakeup From Sleep
+Current in mA Before Wakeup: 60.0
+Current in mA After Wakeup: 69.8
+Above results for Pin ID PD2
+
+Test 7: Set Power Mode
+Current in mA Before Power Mode: 69.97
+Current in mA After Power Mode: 54.34
+Above results for Pin ID PC12
+
+Test 8: Wakeup From Sleep
+Current in mA Before Wakeup: 54.5
+Current in mA After Wakeup: 70.2
+Above results for Pin ID PC12
+
+Test 7: Set Power Mode
+Current in mA Before Power Mode: 69.97
+Current in mA After Power Mode: 50.24
+Above results for Pin ID PC11
+
+Test 8: Wakeup From Sleep
+Current in mA Before Wakeup: 50.2
+Current in mA After Wakeup: 69.8
+Above results for Pin ID PC11
+

@@ -1,0 +1,86 @@
+README
+
+TEST CONFIGURATION
+Test ID 1 => GPIO Output Voltage (under load)
+Test ID 2 => GPIO Output Pin Internal Resistance
+Test ID 3 => GPIO Input Pull-Up Voltage
+Test ID 4 => GPIO Input Pull-Down Voltage (STM Only)
+Test ID 5 => ADC Analog Read
+Test ID 6 => 5.0V Supply Pin Voltage Output
+Test ID 7 => 3.3V Supply Pin Voltage Output
+Test ID 8 => Power Modes
+Test ID 9 => Power Mode Wakeup
+
+KEY:
+E [Enable Number]
+M [Mux Address]
+
+PIN CONFIGURATION
+Pin ID 1  => E1M0   | PD2 (STM)
+Pin ID 2  => E1M1   | PC12 (STM)
+Pin ID 3  => E1M2   | PC11 (STM)
+Pin ID 4  => E1M3   | PC10 (STM)
+Pin ID 5  => E1M4   | D15 (Arduino) / PB8 (STM)
+Pin ID 6  => E1M5   | PC6 (STM)
+Pin ID 7  => E1M6   | PC9 (STM)
+Pin ID 8  => E1M7   | PC8 (STM)
+Pin ID 9  => E2M0   | REF (Arduino) / IOREF (STM)
+Pin ID 10 => E2M1   | BOOT0 (STM)
+Pin ID 11 => E2M2   | E5V (STM)
+Pin ID 12 => E2M3   | VDD (STM)
+Pin ID 13 => E2M4   | AVDD (Arduino) / AVDD (STM)
+Pin ID 14 => E2M5   | U5V (STM)
+Pin ID 15 => E2M6   | D14 (Arduino) / PB9 (STM)
+Pin ID 16 => E2M7   | PC5 (STM)
+Pin ID 17 => E3M0   | PA14 (STM)
+Pin ID 18 => E3M1   | 3V3 (Arduino) / +3.3 (STM)
+Pin ID 19 => E3M2   | PA13 (STM)
+Pin ID 20 => E3M3   | RESET (Arduino) / RESET (STM)
+Pin ID 21 => E3M4   | D12 (Arduino) / PA6 (STM)
+Pin ID 22 => E3M5   | PA11 (STM)
+Pin ID 23 => E3M6   | D13 (Arduino) / PA5 (STM)
+Pin ID 24 => E3M7   | PA12 (STM)
+Pin ID 25 => E4M0   | PC13 (STM)
+Pin ID 26 => E4M1   | PB7 (STM)
+Pin ID 27 => E4M2   | PA15 (STM)
+Pin ID 28 => E4M3   | 5V (Arduino) / +5V (STM)
+Pin ID 29 => E4M4   | PB2 (STM)
+Pin ID 30 => E4M5   | D10 (Arduino) / PB6 (STM)
+Pin ID 31 => E4M6   | PB12 (STM)
+Pin ID 32 => E4M7   | D11 (Arduino) / PA7 (STM)
+Pin ID 33 => E5M0   | PC15 (STM)
+Pin ID 34 => E5M1   | A0 (Arduino) / PA0 (STM)
+Pin ID 35 => E5M2   | PC14 (STM)
+Pin ID 36 => E5M3   | VIN (Arduino) / VIN (STM)
+Pin ID 37 => E5M4   | D7 (Arduino) / PA8 (STM)
+Pin ID 38 => E5M5   | PB1 (STM)
+Pin ID 39 => E5M6   | D8 (Arduino) / PA9 (STM)
+Pin ID 40 => E5M7   | D9 (Arduino) / PC7 (STM)
+Pin ID 41 => E6M0   | PH1 (STM)
+Pin ID 42 => E6M1   | A2 (Arduino) / PA4 (STM)
+Pin ID 43 => E6M2   | PH0 (STM)
+Pin ID 44 => E6M3   | A1 (Arduino) / PA1 (STM)
+Pin ID 45 => E6M4   | D5 (Arduino) / PB4 (STM)
+Pin ID 46 => E6M5   | PB14 (STM)
+Pin ID 47 => E6M6   | D6 (Arduino) / PB10 (STM)
+Pin ID 48 => E6M7   | PB15 (STM)
+Pin ID 49 => E7M0   | PC2 (STM)
+Pin ID 50 => E7M1   | A4 (Arduino) / PC1 (STM)
+Pin ID 51 => E7M2   | VBAT (STM)
+Pin ID 52 => E7M3   | A3 (Arduino) / PB0 (STM)
+Pin ID 53 => E7M4   | D3 (Arduino) / PB3 (STM)
+Pin ID 54 => E7M5   | AGND (STM)
+Pin ID 55 => E7M6   | D4 (Arduino) / PB5 (STM)
+Pin ID 56 => E7M7   | PB13 (STM)
+
+Pin ID 57 => E8M2   | PC3 (STM)
+Pin ID 58 => E8M3   | A5 (Arduino) / PC0 (STM)
+Pin ID 59 => E8M4   | D0 (Arduino) / PA3 (STM)
+Pin ID 60 => E8M5   | D1 (Arduino) / PA2 (STM)
+Pin ID 61 => E8M6   | D2 (Arduino) / PA10 (STM)
+Pin ID 62 => E8M7   | PC4 (STM)
+
+
+
+
+

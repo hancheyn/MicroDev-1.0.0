@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=MicroDev
+Type=Application
+Comment=Program used to run MicroDev Tester upon boot
+Exec=sh -c "cd /home/microdev/MicroDev/Python; python3 Controller.py"

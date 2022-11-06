@@ -1,0 +1,5 @@
+../Core/Src/setup.c:12:6:delay	24	static
+../Core/Src/setup.c:20:12:pin_set	56	static
+../Core/Src/setup.c:35:6:init_pins	56	static
+../Core/Src/setup.c:234:6:init_facade	4	static
+../Core/Src/setup.c:240:6:init_real	4	static
